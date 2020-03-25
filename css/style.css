@@ -1,0 +1,35 @@
+.section.started .started-content .typed-subtitle{
+    color: #78cc6d;
+}
+
+.info-list liste-projet ul li{
+    color: #78cc6d;
+} 
+
+p{
+    color: white;
+    font-weight: 300;
+}
+/* body p strong{
+    color: #78cc6d;
+} */
+
+body .info-list ul li strong {
+    color: #78cc6d;
+    font-weight: 500;
+}
+
+.section.about p{
+    text-align: justify;
+}
+
+a.btn.fill, .btn.fill {
+    background: #78cc6d;
+    border-color: #78cc6d;
+}
+body form[name="contact"]{
+
+    position: relative;
+    padding: 0 80px 150px 80px;
+    z-index: 97;
+}
